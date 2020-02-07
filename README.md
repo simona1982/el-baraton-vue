@@ -1,35 +1,16 @@
 # el-baraton-vue
 
+```
+npm install
+```
+
 ## Project setup
 
 ```
-yarn install
+npm run start
 ```
 
-### Compiles and hot-reloads for development
+Este comando levante el cliente y el servidor
 
-```
-yarn run serve
-```
-
-### Compiles and minifies for production
-
-```
-yarn run build
-```
-
-### Run your tests
-
-```
-yarn run test
-```
-
-### Lints and fixes files
-
-```
-yarn run lint
-```
-
-### Customize configuration
-
-See [Configuration Reference](https://cli.vuejs.org/config/).
+cliente: http://localhost:8080/ Cliente desarrollado con Vue
+servidor: http://localhost:3000/ Backend Nodejs express
