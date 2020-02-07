@@ -1,0 +1,78 @@
+{
+  "categories": [
+    {
+      "id": 1,
+      "name": "Bebidas",
+      "sublevels": [
+        {
+          "id": 2,
+          "name": "Gaseosas",
+          "sublevels": [
+            {
+              "id": 3,
+              "name": "Con azúcar"
+            },
+            {
+              "id": 4,
+              "name": "Sin azúcar"
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 5,
+      "name": "Desayunos",
+      "sublevels": [
+        {
+          "id": 6,
+          "name": "En casa",
+          "sublevels": [
+            {
+              "id": 7,
+              "name": "Americano"
+            },
+            {
+              "id": 8,
+              "name": "Ingles",
+              "sublevels": [
+                {
+                  "id": 9,
+                  "name": "huevos fritos, alubias, champiñones"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "id": 10,
+      "name": "Almuerzos",
+      "sublevels": [
+        {
+          "id": 11,
+          "name": "Especial"
+        },
+        {
+          "id": 12,
+          "name": "Corrientazo"
+        }
+      ]
+    },
+    {
+      "id": 13,
+      "name": "Vinos",
+      "sublevels": [
+        {
+          "id": 14,
+          "name": "Tinto"
+        },
+        {
+          "id": 15,
+          "name": "Blanco"
+        }
+      ]
+    }
+  ]
+}
